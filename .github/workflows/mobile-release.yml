@@ -7,7 +7,7 @@ permissions:
 
 env:
   PROJECT_NAME: PibbyEngine 0.7.3
-  REPO_PATH: Ethantobot11/FNF-PsychEngine-0.7.3-Mobile
+  REPO_PATH: sppava65-crypto/FNF-PsychEngine-0.7.3-Mobile
 
 jobs:
   get-commit-hash:
